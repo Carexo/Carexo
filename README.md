@@ -15,6 +15,8 @@ I enjoy engaging in challenging and interesting projects with my persistent atte
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="408" height="318" />
 
+&nbsp;
+
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on something cool
