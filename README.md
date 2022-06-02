@@ -18,7 +18,7 @@ I enjoy engaging in challenging and interesting projects with my persistent atte
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Node.js and Express
 - 📫 How to reach me: marcel.mietla3@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carexo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
