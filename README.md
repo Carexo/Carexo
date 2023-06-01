@@ -5,7 +5,7 @@
 
 
 
-### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=carexo.carexo)
+### Glad to see you here! &nbsp;
 
 I am student with ambition to become front end developer. I love programming, crypto and games.
 
