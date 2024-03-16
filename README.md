@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am student with ambition to become front end developer. I love programming, crypto and games.
+I am computer science student with ambition to become full stack developer. I love programming, crypto and games.
 
 I enjoy engaging in challenging and interesting projects with my persistent attention and taking care of details !
 
